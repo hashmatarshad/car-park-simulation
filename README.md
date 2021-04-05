@@ -1,5 +1,6 @@
 # car-park-simulation
 A car park simulation created, designed and coded by Hashmat Arshad in Java using OpenGL LWJGL.
+Video of Execution: https://www.youtube.com/watch?v=5zrEK_61M_4
 
 * My submission utilises custom made textures in order to create the car and car park aesthetic design.
  * My submission animates a car reverse bay parking into its desired bay,
